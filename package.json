@@ -1,5 +1,5 @@
 {
-  "name": "c-render",
+  "name": "material-universe",
   "version": "1.1.0",
   "scripts": {
     "ng": "ng",
@@ -48,5 +48,20 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
-  }
+  },
+  "description": "Material Universe",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comeoninc/Material-Universe.git"
+  },
+  "keywords": [
+    "comeoninc"
+  ],
+  "author": "comeoninc.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/comeoninc/Material-Universe/issues"
+  },
+  "homepage": "https://github.com/comeoninc/Material-Universe#readme"
 }
